@@ -4,5 +4,9 @@ standing strong
 on this their chosen battle field
 
 okay
+<<<<<<< HEAD
 232
 222
+=======
+232
+>>>>>>> feature
